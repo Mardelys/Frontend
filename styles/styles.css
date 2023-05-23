@@ -1,6 +1,5 @@
 *{
    margin: 0;
-   padding: 0;
 }
 
 .container-logo{
@@ -9,7 +8,7 @@
    width: 100%;
 }
 article{
-   padding-left: 10px;
+   margin-bottom: 30px;
 }
 .container-title{
    background-color:#C4C4C4 ;
