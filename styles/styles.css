@@ -1,0 +1,35 @@
+*{
+   margin: 0;
+   padding: 0;
+}
+
+.container-logo{
+   background: #E6E6E6;
+   text-align: center;
+   width: 100%;
+}
+article{
+   padding-left: 10px;
+}
+.container-title{
+   background-color:#C4C4C4 ;
+   color: #005677;
+   text-align: center;
+   margin-bottom: 50px;
+   
+}
+h3{
+   background-color:#C4C4C4 ;
+   color: #005677;
+   font-size: 20px;
+   margin: 30px 0;
+}
+
+footer{
+   background-color: #005677;
+   text-align: center;
+   align-items: center;
+}
+footer img{
+   margin: 10px 0;
+}
